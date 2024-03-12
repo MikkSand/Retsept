@@ -1,0 +1,61 @@
+body {
+    background-color: antiquewhite;
+}
+
+.heading {
+    text-align: center;
+}
+
+.Retsept-heading {
+    color: chocolate;
+    font-family: "Pacifico", cursive;
+    font-size: 3rem;
+}
+
+.picture {
+    width: 33%;
+    margin: 0 auto;
+}
+
+.koostisosad {
+    color: brown;
+    text-align: center;
+    font-size: 1.2rem;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.koostisosade-tabel {
+    border: 1px solid brown;
+    margin: 0 auto;
+}
+
+.valmistamine ol {
+    color: brown;
+    margin: 0 auto;
+    width: 35%;
+
+}
+
+.Serveerimine {
+    text-align: center;
+    color: brown;
+}
+
+.Soov {
+    text-align: center;
+}
+
+.Soov-söömisele {
+    color: chocolate;
+    font-family: "Pacifico", cursive;
+    font-size: 3rem;
+}
+
+.footer {
+    color: grey;
+    font-family: "Caveat", cursive;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 5%;
+}
